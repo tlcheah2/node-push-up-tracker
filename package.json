@@ -1,0 +1,22 @@
+{
+  "name": "node-push-up-tracker",
+  "version": "1.0.1",
+  "description": "Push Up Tracker Backend Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "npx nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "Tek Loon Cheah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^52.1.0",
+    "moment": "^2.27.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
