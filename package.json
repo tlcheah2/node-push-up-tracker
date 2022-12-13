@@ -11,7 +11,7 @@
   "author": "Tek Loon Cheah",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "googleapis": "^52.1.0",
     "moment": "^2.27.0"
   },
